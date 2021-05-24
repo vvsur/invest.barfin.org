@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DigitalRuby.ExchangeSharp</id>
+    <version>0.7.4</version>
+    <title>ExchangeSharp - C# API for cryptocurrency exchanges</title>
+    <authors>jjxtra</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/jjxtra/ExchangeSharp</projectUrl>
+    <description>ExchangeSharp is a C# API for working with various cryptocurrency exchanges. Web sockets are also supported for some exchanges.</description>
+    <releaseNotes>https://github.com/jjxtra/ExchangeSharp/releases</releaseNotes>
+    <copyright>Copyright 2017, Digital Ruby, LLC - www.digitalruby.com</copyright>
+    <tags>C# crypto cryptocurrency trade trader exchange sharp socket web socket websocket signalr secure API Binance BitMEX Bitfinex Bithumb Bitstamp Bittrex BL3P Bleutrade BTSE Cryptopia Coinbase GDAX Digifinex Gemini Gitbtc Huobi Kraken Kucoin Livecoin NDAX OKCoin OKEx Poloniex TuxExchange Yobit ZBcom</tags>
+    <repository type="git" url="https://github.com/jjxtra/ExchangeSharp" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.AspNet.SignalR.Client" version="2.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CodeAnalysis.Analyzers" version="2.9.7" exclude="Build,Analyzers" />
+        <dependency id="NLog" version="4.5.10" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\github_projects\invest.barfin.org\ExchangeSharp\bin\Debug\netstandard20\ExchangeSharp.dll" target="lib\netstandard2.0\ExchangeSharp.dll" />
+    <file src="C:\github_projects\invest.barfin.org\ExchangeSharp\icon.png" target="\icon.png" />
+    <file src="C:\github_projects\invest.barfin.org\ExchangeSharp\LICENSE.txt" target="LICENSE.txt" />
+  </files>
+</package>

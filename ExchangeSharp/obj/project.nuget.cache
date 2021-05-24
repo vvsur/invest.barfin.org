@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "AnE395eK3jjwwYFnWOHVM6J3va2B/WQZ9DDgIzWCtiSh+aNBYin1HXWHVZT/6bPwOeCCpqxHTwoynWnUC/z35Q==",
+  "success": true,
+  "projectFilePath": "C:\\github_projects\\invest.barfin.org\\ExchangeSharp\\ExchangeSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elite\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.3.0\\microsoft.aspnet.signalr.client.2.3.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.7\\microsoft.codeanalysis.analyzers.2.9.7.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\nlog\\4.5.10\\nlog.4.5.10.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\elite\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
